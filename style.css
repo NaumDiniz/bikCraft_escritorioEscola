@@ -98,7 +98,7 @@ div#vantagens h1 {
 }
 
 div#vantagens h2 {
-
+    color: green;
 }
 
 div#vantagens ul {
@@ -143,5 +143,5 @@ footer{
     position: relative;
     top: 200px;
     left: -1000px;
-    background-color: ;
+    background-color:  green;
 }
